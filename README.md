@@ -66,6 +66,13 @@ Libraries used:
 
 ---
 
+### 🧑 Author
+Mimo Maina
+GitHub Repository: Sports_Analysis
+
+### 📄 License
+MIT License — see LICENSE for details.
+
 ## 🧪 Sample Output
 
 ```plaintext
@@ -80,9 +87,3 @@ sports-analysis/
 ├── sports_analysis.ipynb     # Main Jupyter notebook
 └── README.md                 # This file
 
-### 🧑 Author
-Mimo Maina
-GitHub Repository: Sports_Analysis
-
-### 📄 License
-MIT License — see LICENSE for details.
